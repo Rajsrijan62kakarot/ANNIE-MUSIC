@@ -9,7 +9,7 @@ def start_pannel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💠 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 💠",
+                text="Aᴅᴅ Mᴇ Iɴ ʏᴏᴜʀ Gʀᴏᴜᴘ  🈸",
                 url=f"https://t.me/{app.username}?startgroup=true",
             ),
         ],
@@ -28,7 +28,7 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💠 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 💠",
+                text=" Aᴅᴅ Mᴇ Iɴ ʏᴏᴜʀ Gʀᴏᴜᴘ  🈸 ",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
@@ -61,7 +61,7 @@ def music_start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="+ Add me to your clan darlo +",
+                text="+ Aᴅᴅ Mᴇ Iɴ ʏᴏᴜʀ Gʀᴏᴜᴘ  🈸 +",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
@@ -71,7 +71,7 @@ def music_start_panel(_):
         ],
         [
             InlineKeyboardButton(text="❄ Owner ❄", callback_data="developer"),
-            InlineKeyboardButton(text="🎄 Update 🎄", url="https://t.me/kittyxupdates"),
+            InlineKeyboardButton(text="🎄 Update 🎄", url="https://t.me/EvoKakarot"),
         ],
     ]
     return buttons
